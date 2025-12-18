@@ -7,7 +7,7 @@ This project focuses on accurate calculations, clean UI, and practical JavaScrip
 
 🔗 Live Demo
 
-👉Project Live Link :
+👉Project Live Link : https://salarycalculatorproject.netlify.app/
 ---
 
 🚀 Features
